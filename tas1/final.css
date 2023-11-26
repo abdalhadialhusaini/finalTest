@@ -1,0 +1,127 @@
+.img {
+  display: block;
+  width: 100%;
+  height: 15%;
+}
+.z {
+  text-align: center;
+  font-size: 45px;
+}
+.h {
+  text-align: center;
+  font-size: 18px;
+}
+
+.box {
+  display: inline-block;
+  width: 50%;
+  padding: 1px;
+  margin: 48px;
+  background-color: #f4f4f4;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  width: auto;
+  height: auto;
+  border-radius: 100%;
+}
+
+.three {
+  background-color: rgb(58, 56, 56);
+
+  width: 100%;
+  height: 50%;
+  display: flex;
+  /* display: inline-block; */
+}
+.one {
+  width: 85%;
+}
+
+.work1 {
+  width: 25%;
+  display: inline-block;
+}
+
+.one1 {
+  display: inline-block;
+  height: 50%;
+  width: 25%;
+  padding: 16px;
+  margin: 10px;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fcf8f8;
+  color: #000000;
+  font-size: 29px;
+  align-items: flex-start;
+}
+
+.f {
+  background-color: rgb(255, 255, 255);
+  height: 100%;
+  width: 100%;
+}
+
+.con {
+  font-size: 29px;
+  align-items: flex-start;
+  margin-bottom: 10px;
+  height: 30%;
+  width: 70%;
+}
+
+.x {
+  width: 20px; /* اختر العرض المناسب للصورة */
+  height: 20px; /* اختر الارتفاع المناسب للصورة */
+  margin-right: 1px; /* المسافة بين الصورة والنص */
+}
+
+.green-underline {
+  text-decoration: underline green; /* يضع خطًا أخضر تحت الكلمة */
+}
+
+.side-box {
+  width: 100px;
+  height: 150px;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  padding: 10px;
+  align-self: flex-start; /* تعديل موقع العنصر داخل الـ flex container */
+  margin-top: 10px; /* إضافة هامش للأعلى لفصله عن النصوص */
+  margin-right: 10px;
+  text-align: center;
+}
+
+.side-box-words {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: 20px;
+  text-align: center;
+}
+
+.haa {
+  display: flex;
+}
+
+.word {
+  text-align: center;
+}
+
+.us {
+  text-align: center;
+  font-size: 25px;
+  background-color: #9e8787;
+}
+
+.last {
+  justify-content: center;
+  height: 30px;
+  display: flex;
+  background-color: #9e8787;
+}
+
+footer {
+  background-color: #9e8787;
+}

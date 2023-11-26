@@ -1,0 +1,52 @@
+.x{
+
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    align-items: center; 
+
+   
+    padding:   200px;
+}
+
+.x1{
+
+    
+    height:20vh;
+    text-align: center;
+}
+.x2{
+    height: 30vh ;
+    text-align: center;
+}
+.x3{
+     height:15vh;
+     text-align: center;
+}
+.x4{
+
+    height:35vh;
+    text-align: center;
+
+}
+.x5{
+
+     height:50vh;
+     text-align: center;
+}
+.x6{
+
+    text-align: center;
+    height:20vh;
+
+}
+
+
+
+
+
+
+
+
+
+
